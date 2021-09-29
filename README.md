@@ -1,1 +1,1 @@
-Hey! Mushfqiur finally focused on learning NLP in detail!
+Hey! Mushfiqur finally focused on learning NLP in detail! It's time to clarify all the basic concepts of NLP. I will love to learn countvectorizer, tf-idf, bag-of-words, stemming, lemmatization, etc. and their core concepts. I will learn to use machine learning and deep learning techniques for natural language processing. I already have some knowledge on ML and DL, and it's time to take it a level ahead. SO, let's get started!
